@@ -15,7 +15,7 @@ app.use(
 )
 
 const pokemonList = JSON.parse(
-  fs.readFileSync("./pokemon.json", "utf-8")
+  fs.readFileSync("./mon.json", "utf-8")
 )
 
 // -----------------------------
