@@ -1,0 +1,7 @@
+[
+  { "name": "Pidgey", "rarity": "common", "weight": 50 },
+  { "name": "Rattata", "rarity": "common", "weight": 50 },
+  { "name": "Pikachu", "rarity": "uncommon", "weight": 25 },
+  { "name": "Charizard", "rarity": "rare", "weight": 10 },
+  { "name": "Mewtwo", "rarity": "legendary", "weight": 2 }
+]
